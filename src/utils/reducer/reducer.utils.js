@@ -1,0 +1,1 @@
+export const createAction = (type, paylod) => ({type, paylod})
